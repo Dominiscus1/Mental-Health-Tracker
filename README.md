@@ -14,8 +14,8 @@ All folders and files are found on our Github repository. It is designed to work
 Click on Login/Register to create an account or login. You will be directed to a dashboard. Diary entries, navigation, and viewing diary history are self-explanetory.
 ## Contribution Guidelines
 N/A
-## Test Instructions
-N/A
+## Launch
+https://mental-health-tracker-arj.herokuapp.com/
 ## License
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Questions
